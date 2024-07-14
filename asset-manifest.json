@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Crime-Dashboard/static/css/main.e9fcef39.css",
-    "main.js": "/Crime-Dashboard/static/js/main.cf4030f4.js",
+    "main.css": "/Crime-Dashboard/static/css/main.54fcc69d.css",
+    "main.js": "/Crime-Dashboard/static/js/main.b1857055.js",
     "static/js/453.59b8a61b.chunk.js": "/Crime-Dashboard/static/js/453.59b8a61b.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/Crime-Dashboard/static/media/Montserrat-Regular.e20d5327f1a05620c084.ttf",
     "index.html": "/Crime-Dashboard/index.html",
-    "main.e9fcef39.css.map": "/Crime-Dashboard/static/css/main.e9fcef39.css.map",
-    "main.cf4030f4.js.map": "/Crime-Dashboard/static/js/main.cf4030f4.js.map",
+    "main.54fcc69d.css.map": "/Crime-Dashboard/static/css/main.54fcc69d.css.map",
+    "main.b1857055.js.map": "/Crime-Dashboard/static/js/main.b1857055.js.map",
     "453.59b8a61b.chunk.js.map": "/Crime-Dashboard/static/js/453.59b8a61b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9fcef39.css",
-    "static/js/main.cf4030f4.js"
+    "static/css/main.54fcc69d.css",
+    "static/js/main.b1857055.js"
   ]
 }
